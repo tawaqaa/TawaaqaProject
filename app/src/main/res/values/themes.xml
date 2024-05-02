@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Touqa" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/color_button</item>
+<!--        <item name="android:textColorHighlight">@color/sky_blue</item>-->
+        <item name="android:windowBackground">@color/background_screen</item>
+    </style>
+
+    <style name="Theme.Touqa" parent="Base.Theme.Touqa" />
+</resources>
